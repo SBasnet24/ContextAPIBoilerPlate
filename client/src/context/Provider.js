@@ -18,7 +18,7 @@ const Provider = ({ children }) => {
     });
   };
   // call in the component where you wannna render
-  loading();
+  //   loading();
   const value = {
     loading: state.loading,
   };
